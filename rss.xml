@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[About Sam]]></title>
+        <description><![CDATA[About Sam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 21:54:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sam creates]]></title>
+            <description><![CDATA[<article><h1>Sam creates</h1><p>I thrive and have a track record in early stage ventures, both commercial and social. </p></article>]]></description>
+            <link>undefinedsam-creates/index.html</link>
+            <guid isPermaLink="false">044916c1-88f8-4181-b553-de3da036d4c9</guid>
+            <pubDate>Sun, 20 Mar 2016 21:54:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
