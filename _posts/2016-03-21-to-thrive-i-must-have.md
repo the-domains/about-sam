@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-21T04:10:52.774Z'
-dateModified: '2016-03-21T04:09:26.003Z'
-title: What I need
+description: Great people. So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
+datePublished: '2016-03-21T22:28:48.535Z'
+dateModified: '2016-03-21T22:28:34.163Z'
+title: How I work
 author: []
 authors: []
 publisher:
@@ -22,13 +22,13 @@ url: to-thrive-i-must-have/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9ee80d-ad8f-4990-bf15-cdafdd941f60.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e513c3e-a675-4d2a-9d95-b844684f7be5.jpg)
 
-# What I need
+# How I work
 
 ## To thrive, I must have
 
-# **Great people. **So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
+**Great people. **So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
 
 **Inquisitive minds. **Priority is given to "What if" before "But how" questions. We plan around failure rather than try to eliminate it.
 
@@ -42,8 +42,8 @@ _type: Article
 
 **Flexibility**. I live in rural New Zealand and while I do travel, I intend to work remotely most of the time. 
 
-## My wish list includes
+## It also helps to have: 
 
-High change environment. 
+**A high change environment.** I work better in a fast paced, constantly changing environment that values adaptation over rigid processes.
 
-Potential for exponential scale.
+**Potential for exponential scale.** Everything starts small, but having the fundamentals and ambition of scale in mind inspires me.
