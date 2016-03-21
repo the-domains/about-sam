@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Great people. So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
-datePublished: '2016-03-21T22:28:48.535Z'
-dateModified: '2016-03-21T22:28:34.163Z'
+datePublished: '2016-03-21T23:44:36.199Z'
+dateModified: '2016-03-21T23:44:33.019Z'
 title: How I work
 author: []
+sourcePath: _posts/2016-03-21-to-thrive-i-must-have.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-to-thrive-i-must-have.md
-published: true
 url: to-thrive-i-must-have/index.html
 _type: Article
 
@@ -26,24 +26,26 @@ _type: Article
 
 # How I work
 
-## To thrive, I must have
+## In my work, I must have:
 
 **Great people. **So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
 
 **Inquisitive minds. **Priority is given to "What if" before "But how" questions. We plan around failure rather than try to eliminate it.
 
-**Autonomy. **I am given the right level of trust and authority to turn ideas into action and get things done. 
+**Autonomy. **I am given the right level of freedom and authority to make decisions. 
 
 **Influence**. Opportunities exist for me to lead and personally make a difference. 
 
-**Tangible results**. I need to be able to trace my efforts to tangible and satisfying results. 
+**Purpose.** There is a clear and meaningful direction that improves the lives of a large number of people. I believe whole heartedly in why we're doing what we're doing.
 
-**Purpose**. I believe whole heartedly in _why_ we're doing what we're doing. Purpose isn't entirely about social outcomes, but it often includes it.
+**Tangible results**. I need to be able to trace my efforts to tangible and satisfying results. 
 
 **Flexibility**. I live in rural New Zealand and while I do travel, I intend to work remotely most of the time. 
 
-## It also helps to have: 
+## It helps to have: 
 
 **A high change environment.** I work better in a fast paced, constantly changing environment that values adaptation over rigid processes.
 
 **Potential for exponential scale.** Everything starts small, but having the fundamentals and ambition of scale in mind inspires me.
+
+Seniority and a contribution to strategy. I would like to think that my experience and ability to see the big picture can contribute to good long term decisions.
