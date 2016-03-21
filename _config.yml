@@ -1,6 +1,6 @@
 name: About Sam
 favicon: null
-layout_spectrum: 0.15413
+layout_spectrum: 0.60994
 typography_spectrum: 0.34384
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#030218'
+    - '#7b8e95'
+    - '#9aada4'
+    - '#60746d'
+    - '#2e3935'
   brandStrength: 0.057710963068529963
   lightness: 0.5068646227009594
   saturation: 0.542947358218953
-  rhythmicContrast: 0.31577272061258554
+  rhythmicContrast: 0.5
 purpose: []
