@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I thrive and have a track record in early stage ventures, both commercial and social.\_"
-datePublished: '2016-03-21T04:09:38.338Z'
-dateModified: '2016-03-20T22:05:26.939Z'
+datePublished: '2016-03-21T22:22:08.878Z'
+dateModified: '2016-03-21T22:21:56.175Z'
 title: Sam creates
 author: []
 sourcePath: _posts/2016-03-20-sam-creates.md
@@ -22,7 +22,7 @@ url: sam-creates/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cde1ee6-8ee6-4416-893c-81d415a230ef.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2ed128-4a82-4b0a-9b15-c8aeb0ff1b9f.jpg)
 
 # Sam creates
 
@@ -35,7 +35,6 @@ I also started and serve as director of [Optimal Workshop][1], a provider of use
 In the past few years, I've been privileged to experience the joys and hardship of social ventures and international development. In particular, I worked with the [United Nations Interagency Project][2] on human trafficking to establish [The Mekong Club][3]. I worked on the creation of an impact investment fund  with [Shift360][4] and [Uberis Capital][5]. I believe education in developing countries can be exponentially better in my experiments with [Grit Learning][6]. I created opportunities for others like me to make a difference through the [Good For Nothing Challenge][7]. Most recently, I helped lead and manage a [USAID funded ICT for Development innovation project][8] in Cambodia. 
 
 I am at my best when I work with inspiring people in the fields of technology, design and entrepreneurship for the purposes of a greater good.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a42b2407-0c30-4dc1-9352-3e0d0360c12e.png)
 
 [0]: https://digital.pwc.co.nz/
 [1]: www.optimalworkshop.com
