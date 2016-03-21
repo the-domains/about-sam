@@ -4,8 +4,15 @@
         <description><![CDATA[Things about Sam]]></description>
         <link>https://thegrid.ai/about-sam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 22:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 23:22:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/about-sam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What I do</p>]]></description>
+            <link>https://thegrid.ai/about-sam/what-i-do/index.html</link>
+            <guid isPermaLink="false">ff4faa34-f0f0-48f7-bd9a-fa373024b87c</guid>
+            <pubDate>Mon, 21 Mar 2016 23:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I work]]></title>
             <description><![CDATA[<article><h1>How I work</h1><h2>To thrive, I must have</h2><p>Great people. So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.</p></article>]]></description>
