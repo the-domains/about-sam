@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T04:09:17.470Z'
-dateModified: '2016-03-21T04:09:06.362Z'
+datePublished: '2016-03-21T04:10:52.774Z'
+dateModified: '2016-03-21T04:09:26.003Z'
 title: What I need
 author: []
 authors: []
@@ -44,6 +44,6 @@ _type: Article
 
 ## My wish list includes
 
-High change environment. I 
+High change environment. 
 
-Potential for exponential scale. I prefer to have tried and failed
+Potential for exponential scale.
