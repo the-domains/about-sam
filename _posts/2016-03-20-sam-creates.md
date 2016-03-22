@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I thrive and have a track record in early stage ventures, both commercial and social.\_"
-datePublished: '2016-03-21T23:34:02.395Z'
-dateModified: '2016-03-21T22:22:18.898Z'
+datePublished: '2016-03-22T21:18:46.140Z'
+dateModified: '2016-03-22T21:18:38.850Z'
 title: Sam creates
 author: []
 sourcePath: _posts/2016-03-20-sam-creates.md
