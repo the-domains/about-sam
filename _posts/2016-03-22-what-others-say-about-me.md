@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T21:49:49.294Z'
-dateModified: '2016-03-22T21:49:47.947Z'
+datePublished: '2016-03-22T22:04:26.926Z'
+dateModified: '2016-03-22T22:01:03.714Z'
 title: What others say about me
 author: []
 sourcePath: _posts/2016-03-22-what-others-say-about-me.md
@@ -41,7 +41,7 @@ _type: Article
 
 # 360 degree review
 
-At [Development Innovations][0], staff and clients said that I **always**: 
+At Development Innovations, staff and clients said that I **always**: 
 
 * Demonstrate drive and energy.
 * Establishes effective networks.
@@ -53,6 +53,6 @@ At [Development Innovations][0], staff and clients said that I **always**:
 * Actively looks for better ways of doing things.
 * Actively seeks out external ideas, best practice and current thinking
 
-[0]: www.development-innovations.org
-[1]: www.trademe.co.nz
-[2]: www.optimalworkshop.com
+[0]: http://www.development-innovations.org/
+[1]: http://www.trademe.co.nz/
+[2]: http://www.optimalworkshop.com/
