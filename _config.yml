@@ -1,6 +1,6 @@
 name: About Sam
 favicon: null
-layout_spectrum: 0.98555
+layout_spectrum: 0.7486
 typography_spectrum: 0.31723
 title: Things about Sam
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.057710963068529963
   lightness: 0.5068646227009594
   saturation: 0.542947358218953
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
