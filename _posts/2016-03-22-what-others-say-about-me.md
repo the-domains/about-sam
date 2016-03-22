@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-22T22:28:20.214Z'
-dateModified: '2016-03-22T22:26:58.251Z'
+description: People who I have worked closely over the years share their thoughts.
+datePublished: '2016-03-22T22:38:12.027Z'
+dateModified: '2016-03-22T22:37:31.146Z'
 title: What others say about me
 author: []
 sourcePath: _posts/2016-03-22-what-others-say-about-me.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: what-others-say-about-me/index.html
+_type: Article
 
 ---
 # What others say about me
@@ -39,12 +39,18 @@ _type: Blurb
 
 > Sam is an ideas-to-action man. He is brilliant at taking an idea and running with it long enough to know if it can fly by itself. Constantly searching for a way to do things better, Sam has what it takes to find out how.
 
-In a recent 360 degree review at Development Innovations, staff and clients said that I always: 
+# 360 degree review 
 
-* "Demonstrate drive and energy."
-* "Establishes effective networks."
-* "Interacts with people openly and directly"
-* "Shows an appropriate level of self-confidence."
+At Development Innovations, staff and clients said that I **always**: 
+
+* Demonstrate drive and energy.
+* Establishes effective networks.
+* Interacts with people openly and directly.
+* Shows an appropriate level of self-confidence.
+* Acts with honesty and integrity.
+* Shows consistency between actions and words.
+* Actively looks for better ways of doing things.
+* 
 
 [0]: www.development-innovations.org
 [1]: www.trademe.co.nz
