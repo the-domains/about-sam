@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Great people. So much enjoyment is tied up with working alongside good people. I only work with people I respect and trust. It helps that we can have fun together.
-datePublished: '2016-03-21T23:44:36.199Z'
-dateModified: '2016-03-21T23:44:33.019Z'
+datePublished: '2016-03-22T21:39:02.485Z'
+dateModified: '2016-03-22T00:59:49.183Z'
 title: How I work
 author: []
 sourcePath: _posts/2016-03-21-to-thrive-i-must-have.md
