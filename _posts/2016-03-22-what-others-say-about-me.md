@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T01:08:15.648Z'
-dateModified: '2016-03-23T01:08:10.598Z'
+datePublished: '2016-03-23T02:10:13.511Z'
+dateModified: '2016-03-23T02:09:59.601Z'
 title: What others say about me
 author: []
 sourcePath: _posts/2016-03-22-what-others-say-about-me.md
@@ -39,19 +39,14 @@ _type: Article
 
 > Sam is**an ideas-to-action man**. He is brilliant at taking an idea and running with it long enough to know if it can fly by itself. Constantly searching for a way to do things better, Sam has what it takes to find out how.
 
-# 360 degree review 
+## Matthew Friedman, CEO of [The Mekong Club][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d351d7-3b69-4656-bab1-176b25165a6a.jpg)
 
-At Development Innovations, staff and clients said that I **always**: 
+> Now and then I run across a person who really has a heart from helping to make this a better world. Sam is one of these rare people. Add to this the fact that he has brilliant ideas and a real ability to bring them to life and you have the perfect combination. Sam **is a visionary, a mobilizer and a humanitarian**.
 
-* Demonstrate drive and energy.
-* Establishes effective networks.
-* Interacts with people openly and directly.
-* Shows an appropriate level of self-confidence.
-* Acts with honesty and integrity.
-* Shows consistency between actions and words.
-* Actively looks for better ways of doing things.
-* Tailors his communication to the audience.
+
 
 [0]: www.development-innovations.org
 [1]: www.trademe.co.nz
 [2]: www.optimalworkshop.com
+[3]: http://www.themekongclub.org
